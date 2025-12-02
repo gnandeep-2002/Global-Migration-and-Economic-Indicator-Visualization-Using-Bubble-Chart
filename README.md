@@ -1,0 +1,2 @@
+# Global-Migration-and-Economic-Indicator-Visualization-Using-Bubble-Chart
+Project: Animated Bubble Chart (Python/Plotly) visualizing 'GDP (log-scale)' vs. 'Net Migration' (1980–2024). This 5D chart uses bubble 'area' to encode migration magnitude. Features include animation, filtering, and hover tooltips. Data cleaned from World Bank sources. Reveals trends in economic growth and population movement.
